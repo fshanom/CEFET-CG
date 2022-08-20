@@ -1,2 +1,2 @@
-### Instalar x11vnc pra rodar o opengl
-Rodar: x11vnc -display :0 -forever -bg -repeat -nowf
+### Shader de uma núvem de fumaça que segue o mouse
+Não está funcionando. Não sei ainda como resolver o erro. 
