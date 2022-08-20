@@ -1,8 +1,26 @@
 # LISTA 02 - Computação Gráfica - 2022/1 
 
-1) Textura – Dado
-2) Textura – Esfera – “Planeta”
-3) Funções implícitas - Paraboloide circular e hiperbólico
-4) Iluminação (Prismas e Pirâmides)
-5) Alguma construção no “novo” opengl
-6) Algum shader no “novo” opengl (p.Ex, um modelo de iluminação diferente, como toon, phong ou lambert ou a implementação de alguma geometria diferente usando shader, p.Ex. https://www.shadertoy.com/view/NsyBzV ). Observe que nesse tópico você não precisa ser original. Pode se basear em shader existente, colocando a devida fonte de referência.
+## 0) Requisitos
+   
+```
+pip install -U pysdl2
+pip install -U PyOpenGL PyOpenGL_accelerate
+pip install -U PyGLM
+```
+
+## 1) Textura – Dado
+
+No diretório da questão, basta rodar, ```python3 dado.py```
+
+## 2) Textura – Esfera – “Planeta”
+
+No diretório da questão, basta rodar, ```python3 planeta \terra.py```
+
+## 3) Funções implícitas - Paraboloide circular e hiperbólico
+
+No diretório da questão, basta rodar, ```python3 paraboloides.py```
+
+
+## 5) Alguma construção no “novo” opengl
+
+No diretório da questão, basta rodar, ```python3 matrix_cube_glut.py```
